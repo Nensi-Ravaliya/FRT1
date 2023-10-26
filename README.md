@@ -1,6 +1,7 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=526682619)
 
 # JavaScript Portfolio Site with GitHub Codespaces and Copilot
+### website: https://purple-meadow-03df64200.4.azurestaticapps.net/
 
 In this template repository we have the development environment and base set and ready to go. So that you can immediately launch your [Codespace](https://github.com/features/codespaces/) environment and start customizing your site using [Copilot](https://copilot.github.com) to help you write code faster. 
 
